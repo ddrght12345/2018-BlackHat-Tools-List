@@ -1,520 +1,204 @@
-# 2018-BlackHat-Tools-List
-2018 BlackHat Tools List
+# 2018 BlackHat Tools List
 
-Android，iOS和移动黑客
+## Android, iOS and mobile hackers
 
-
-
-易受攻击的iOS应用程序：Swift版
-
-
-
+- Vulnerable iOS app: Swift version  
 https://github.com/prateek147/DVIA-v2
 
+## Code evaluation
 
+- OWASP dependency check  
+  https://github.com/jeremylong/DependencyCheck
 
-代码评估
+- Cougar scan  
+  https://github.com/pumasecurity/puma-scan
 
+## Encryption
 
+- DeepViolet: SSL / TLS scanning API and tools  
+  https://github.com/spoofzu/DeepViolet
 
-OWASP依赖性检查
+## Data forensics and incident response
 
+- Beginner to expert  
+  https://github.com/bro/bro
 
+- CyBot: Open Source Threat Intelligence Chatbot  
+  https://github.com/CylanceSPEAR/CyBot
 
-https://github.com/jeremylong/DependencyCheck
-
-
-
-美洲狮扫描
-
-
-
-https://github.com/pumasecurity/puma-scan
-
-
-
-加密
-
-
-
-DeepViolet：SSL / TLS扫描API和工具
-
-
-
-https://github.com/spoofzu/DeepViolet
-
-
-
-数据取证和事件响应
-
-
-
-初学者到专家
-
-
-
-https://github.com/bro/bro
-
-
-
-CyBot：开源威胁情报聊天机器人
-
-
-
-https://github.com/CylanceSPEAR/CyBot
-
-
-
-LogonTracer
-
-
-
+- LogonTracer  
 https://github.com/JPCERTCC/LogonTracer
 
-
-
-rastrea2r（重新加载！）：用Gusto和Style收集和狩猎IOC
-
-
-
+- Rastrea2r (reload!): Collect and hunt IOC with Gusto and Style  
 https://github.com/rastrea2r/rastrea2r
 
-
-
-RedHunt OS（VM）：用于对手仿真和威胁搜索的虚拟机
-
-
-
+- RedHunt OS (VM): virtual machine for adversary emulation and threat search  
 https://github.com/redhuntlabs/RedHunt-OS
 
+## Exploitation and moral hacking
 
-
-剥削与道德黑客
-
-
-
-AVET：AntiVirus Evasion Tool
-
-
-
+- AVET：AntiVirus Evasion Tool  
 https://github.com/govolution/avet
 
+- DSP: Docker Safe Playground  
+https://github.com/giper45/DockerSecurityPlayground  
 
-
-DSP：Docker安全游乐场
-
-
-
-https://github.com/giper45/DockerSecurityPlayground
-
-
-
-hideNsneak：攻击混淆框架
-
-
-
+- hideNsneak: attack confusion framework  
 https://github.com/rmikehodges/hideNsneak
 
-
-
-梅林
-
-
-
+- Merlin  
 https://github.com/Ne0nd0g/merlin
 
-
-
-RouterSploit
-
-
-
+- RouterSploit  
 https://github.com/threat9/routersploit
 
+## Hardware/embedded
 
-
-硬件/嵌入式
-
-
-
-ChipWhisperer
-
-
-
+- ChipWhisperer  
 https://github.com/newaetech/chipwhisperer
 
-
-
-JTAGulator ：揭开硬件安全的致命弱点
-
-
-
+- JTAGulator: Uncovering the Achilles heel of Hardware Security  
 https://github.com/grandideastudio/jtagulator
 
-
-
-Micro-Renovator：将处理器固件带入代码
-
-
-
+- Micro-Renovator: Bring the processor firmware into the code  
 https://github.com/syncsrc/MicroRenovator
 
-
-
-TumbleRF：RF模糊变得容易
-
-
-
+- TumbleRF: RF blur becomes easy  
 https://github.com/riverloopsec/tumblerf
 
-
-
-Walrus：充分利用您的卡片克隆设备
-
-
-
+- Walrus: Make the most of your card cloning device  
 https://github.com/TeamWalrus/Walrus
 
+## Internet of Things
 
-
-物联网
-
-
-
-物联网设备的可扩展动态分析框架
-
-
-
+- Scalable dynamic analysis framework for IoT devices  
 https://github.com/sycurelab/DECAF
 
-
-
-BLE CTF项目
-
-
-
+- BLE CTF project  
 https://github.com/hackgnar/ble_ctf
 
-
-
-WHID注射器和WHID Elite：新一代HID攻击性设备
-
-
-
+- WHID Syringe and WHID Elite: Next Generation HID Aggressive Device  
 https://github.com/whid-injector/WHID
 
+## Malware defense
 
-
-恶意软件防御
-
-
-
-为每位安全研究人员提供高级深度学习分析平台
-
-
-
+- Advanced deep learning analysis platform for each security researcher  
 https://github.com/intel/Resilient-ML-Research-Platform
 
-
-
-EKTotal
-
-
-
+- EKTotal  
 https://github.com/nao-sec/ektotal
 
-
-
-固件审计：Blue Teams和DFIR的平台固件安全自动化
-
-
-
+- Firmware Audit: Platform Firmware Security Automation for Blue Teams and DFIR  
 https://github.com/PreOS-Security/fwaudit
 
-
-
-MaliceIO
-
-
-
+- MaliceIO  
 https://github.com/maliceio/malice
 
-
-
-目标 – 参见MacOS安全工具
-
-
-
+- Goal – see MacOS Security Tools  
 https://github.com/objective-see
 
+## Malware attack
 
-
-恶意软件进攻
-
-
-
-BloodHound 1.5
-
-
-
+- BloodHound 1.5  
 https://github.com/BloodHoundAD/BloodHound
 
+## Network attacks
 
-
-网络攻击
-
-
-
-军械库
-
-
-
+- armory  
 https://github.com/depthsecurity/armory
 
-
-
-Chiron：一种先进的IPv6安全评估和渗透测试框架
-
-
-
+- Chiron: An advanced IPv6 security assessment and penetration testing framework  
 https://github.com/aatlasis/Chiron
 
-
-
-DELTA：SDN安全评估框架
-
-
-
+- DELTA: SDN Security Assessment Framework  
 https://github.com/OpenNetworkingFoundation/DELTA
 
-
-
-Mallet：任意协议的拦截代理
-
-
-
+- Mallet: Intercepting agent for any protocol  
 https://github.com/sensepost/mallet
 
-
-
-PowerUpSQL：用于在企业环境中攻击SQL Server的PowerShell工具包
-
-
-
+- PowerUpSQL: PowerShell Toolkit for attacking SQL Server in an enterprise environment  
 https://github.com/NetSPI/PowerUpSQL
 
-
-
-WarBerryPi
-
-
-
+- WarBerryPi  
 https://github.com/secgroundzero/warberry
 
+## Cyber defense
 
-
-网络防御
-
-
-
-ANWI（全新无线IDS）：5美元的WIDS
-
-
-
+- ANWI (New Wireless IDS): $5 WIDS  
 https://github.com/SanketKarpe/anwi
 
-
-
-CHIRON：基于家庭的网络分析和机器学习威胁检测框架
-
-
-
+- CHIRON: Home-based network analysis and machine learning threat detection framework  
 https://github.com/jzadeh/chiron-elk
 
-
-
-云安全套件：AWS / GCP / Azure安全审计的一站式工具
-
-
-
+- Cloud Security Suite: One-stop tool for AWS / GCP / Azure security auditing  
 https://github.com/SecurityFTW/cs-suite
 
-
-
-DejaVu：一个开源欺骗框架
-
-
-
+- DejaVu: An open source spoofing framework  
 https://github.com/bhdresh/Dejavu
 
+## OSINT - Open Source Intelligence
 
-
-OSINT – 开源智能
-
-
-
-DataSploit 2.0
-
-
-
+- DataSploit 2.0  
 https://github.com/DataSploit/datasploit
 
-
-
-Dradis 框架：了解如何将报告时间缩短一半
-
-
-
+- Dradis framework: Learn how to cut your reporting time in half  
 https://github.com/dradis/dradis-ce
 
+## Reverse Engineering
 
-
-逆向工程
-
-
-
-Snake：恶意软件存储动物园
-
-
-
+- Snake: Malware Storage Zoo  
 https://github.com/countercept/snake
 
+## Smart Grid / Industrial Security
 
-
-智能电网/工业安全
-
-
-
-GRFICS ：工业控制模拟的图形现实主义框架
-
-
-
+- GRFICS: Graphic Realism Framework for Industrial Control Simulation  
 https://github.com/djformby/GRFICS
 
+## Vulnerability assessment
 
-
-漏洞评估
-
-
-
-用于机器学习模型的对抗鲁棒性工具箱
-
-
-
+- Confrontational robustness toolbox for machine learning models  
 https://github.com/IBM/adversarial-robustness-toolbox
 
-
-
-Android动态分析工具（ADA）
-
-
-
+- Android Dynamic Analysis Tool (ADA)  
 https://github.com/ANELKAOS/ada
 
-
-
-射箭：开源漏洞评估和管理
-
-
-
+- Archery: Open Source Vulnerability Assessment and Management  
 https://github.com/archerysec/archerysec
 
-
-
-boofuzz
-
-
-
+- boofuzz  
 https://github.com/jtpereyda/boofuzz
 
-
-
-BTA
-
-
-
+- BTA  
 https://github.com/airbus-seclab/bta
 
-
-
-深度利用
-
-
-
+- Deep use  
 https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit
 
-
-
-Halcyon IDE：适用于Nmap脚本开发人员
-
-
-
+- Halcyon IDE: for Nmap script developers  
 https://github.com/s4n7h0/Halcyon
 
-
-
-SimpleRisk
-
-
-
+- SimpleRisk  
 https://github.com/simplerisk
 
-
-
-TROMMEL
-
-
-
+- TROMMEL  
 https://github.com/CERTCC/trommel
 
+## Web AppSec
 
-
-Web AppSec
-
-
-
-看看NGINX的ModSec 3.0：软件Web应用程序防火墙
-
-
-
+- Take a look at NGINX's ModSec 3.0: Software Web Application Firewall  
 https://github.com/SpiderLabs/ModSecurity
 
-
-
-Astra：REST API的自动安全测试
-
-
-
+- Astra: Automatic security testing of the REST API  
 https://github.com/flipkart-incubator/Astra
 
-
-
-Burp Replicator：自动化复杂漏洞的复制
-
-
-
+- Burp Replicator: Automated replication of complex vulnerabilities  
 https://github.com/PortSwigger/replicator
 
-
-
-OWASP进攻性Web测试框架
-
-
-
+- OWASP offensive web testing framework  
 https://github.com/owtf/owtf
 
-
-
-OWASP JoomScan项目
-
-
-
+- OWASP JoomScan project  
 https://github.com/rezasp/joomscan
 
-
-
-WSSAT
-
-
-
+- WSSAT  
 https://github.com/YalcinYolalan/WSSAT
